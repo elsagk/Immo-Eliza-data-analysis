@@ -33,7 +33,13 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 -Save the output in a CSV file which could be used for related analysis.
 
 ## Visuals
-![bar graph Qualitative vs Quantitative](./screenshots/image.png)
+![bar graph Qualitative vs Quantitative](./Result_graphs/image.png)
+![box plot to visualize outliers for price](./Result_graphs/image.png)
+![relationships between  price and n of rooms](./Result-graphs/image-1.png)
+![pair plot for multiple variables](./Result-graphs/image-2.png)
+
+
+
 
 
 ## Contributors
