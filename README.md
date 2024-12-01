@@ -40,7 +40,8 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 ![box plot to visualize outliers for price](./Result-graphs/image.png)
 ![relationships between  price and n of rooms](./Result-graphs/image-1.png)
 ![pair plot for multiple variables](./Result-graphs/image-2.png)
-!['histogram-Surface area of the plot of land'](./Result-graphs/his.png)
+!['histogram-Surface area of the plot of land'](./Result-graphs/image.png/his.png)
+
 
 
 
