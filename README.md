@@ -22,9 +22,20 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 -Install dependencies:
 -.Python 3.12.7
 
--.pip install pandas matplotlib
+-.pip install pandas matplotlib seaborn
 
       -Version: name-Pandas 2.2.3  name- Matplotlib 1.16.0
+
+## Usage
+
+-Retrieve a list of properties from the HTML page source of the website.
+
+-Extract poperties' information from immoweb for each property.
+
+-Save the output in a CSV file which could be used for related analysis.
+
+
+
 
 ## Visual
 ![Qualitative VS Quantitative](./charts/plot.png)
@@ -47,15 +58,6 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 
 
 
-
-
-## Usage
-
--Retrieve a list of properties from the HTML page source of the website.
-
--Extract poperties' information from immoweb for each property.
-
--Save the output in a CSV file which could be used for related analysis.
 
 ## Contributors
 
