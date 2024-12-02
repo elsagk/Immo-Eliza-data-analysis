@@ -26,7 +26,7 @@ Starts around 3500 (Hasselt)
 Ends around 3990 (Peer)
 
 
-///////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
 
 
 In Wallonia, the French-speaking region of Belgium, postal codes generally range from 4000 to 7990. Here's a detailed breakdown:
@@ -58,7 +58,7 @@ Ends around 6997 (Erezée)
 
 
 
-/////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////
 
 
 The postal code range for Belgium as a whole spans from 1000 to 9992. Here's a detailed overview:
