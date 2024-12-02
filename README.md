@@ -29,6 +29,26 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 ## Visual
 ![Qualitative VS Quantitative](./charts/plot.png)
 
+
+![box plot to visualize outliers for price](./charts/plot_price.png)
+
+
+[relationships between  price and no of rooms](./charts/scater_nR_P.png)
+
+
+![pair plot for multiple variables](./charts/charts/pair_plot_multi_v.png)
+
+
+[histogram for the surface area ](./charts/charts/histogram.png)
+
+
+[properties for specific garden surface area ](./charts/charts/charts/nP_G.png)
+
+
+
+
+
+
 ## Usage
 
 -Retrieve a list of properties from the HTML page source of the website.
