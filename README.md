@@ -42,7 +42,7 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 [histogram for the surface area ](./charts/charts/histogram.png)
 
 
-[properties for specific garden surface area ](./charts/charts/charts/nP_G.png)
+[properties for specific garden surface area ](./charts/property_garden_area.png)
 
 
 
