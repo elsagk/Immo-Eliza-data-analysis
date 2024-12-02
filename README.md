@@ -26,6 +26,9 @@ The Python-based tool uses unclean_data.csv file and cleaned_data.csv file
 
       -Version: name-Pandas 2.2.3  name- Matplotlib 1.16.0
 
+## Visual
+![Qualitative VS Quantitative](./charts/plot.png)
+
 ## Usage
 
 -Retrieve a list of properties from the HTML page source of the website.
